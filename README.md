@@ -1,3 +1,3 @@
 # Portfolio
 
-![image info](profile.jpg)
+![image info](Profile.jpg)
