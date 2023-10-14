@@ -6,5 +6,3 @@
 
 ![image info](Images/Profile.jpg)
 
-
-## Skills
