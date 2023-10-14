@@ -3,6 +3,6 @@
 ![image info](Profile.jpg)
 
 [Resume] 
-[Linkedin](www.linkedin.com/in/braden-meyers262)
+[Linkedin](https://www.linkedin.com/in/braden-meyers262)
 
 ## Skills
