@@ -1,9 +1,10 @@
 # Braden Meyers
 
-[Resume] 
-[Linkedin](https://www.linkedin.com/in/braden-meyers262)
+- [Resume] (Resume_Braden_EducationFirst.pdf)
+- [Linkedin](https://www.linkedin.com/in/braden-meyers262)
+- [Portfolio]("CAD PORTFOLIO_Internship.pdf") 
 
-![image info](Profile.jpg)
+![image info](Images/Profile.jpg)
 
 
 ## Skills
